@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matinmat8
 - 👀 I’m interested in security and hacking and also living! The like riding bike and also coding.
 - 🌱 I’m currently learning lot of things! Django, CEH, Python3, Linux, Docker, MicroServices and Rest API.
-- 💞️ I’m looking to collaborate on sex with someone :)
+- 💞️ I’m looking to collaborate on Django and Python projects and learn more :)
 - 📫 How to reach me matinmat8.mat@gmail.com
 
 <!---
