@@ -7,10 +7,10 @@
 
 # Technologies
 - <img alt="Go" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="24" height="24"> Go
-- <img alt="Gin" src="https://github.com/tandpfun/skill-icons/raw/main/svg/github.svg" width="24" height="24"> Gin
+- Gin
 - C#
 - <img alt="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="24" height="24"> Python3
-- <img alt="Django" src="https://github.com/tandpfun/skill-icons/raw/main/svg/django.svg" width="24" height="24"> Django
+- Django
 - <img alt="Git" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="24" height="24"> Git
 
 <!---
