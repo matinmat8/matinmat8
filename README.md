@@ -5,7 +5,14 @@
 - 📫 How to reach me matinmat8.mat@gmail.com
 - Let's make the world a better place for each other by working together, STEP_BY_STEP 👣
 
-- <img alt="Git" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png">
+# Technologies
+- <img alt="Go" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="24" height="24"> Go
+- <img alt="C#" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c#.png" width="24" height="24"> C#
+- <img alt=".NET" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net.png" width="24" height="24"> .NET
+- <img alt="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="24" height="24"> Python
+- <img alt="Git" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="24" height="24"> Git
+- <img alt="HTML" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="24" height="24"> HTML
+
 <!---
 matinmat8/matinmat8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
