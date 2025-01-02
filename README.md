@@ -7,8 +7,10 @@
 
 # Technologies
 - <img alt="Go" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="24" height="24"> Go
-- <img alt="C#" src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c#.png](https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-81f45bc/www.ciat.edu/wp-content/uploads/2022/12/c-sharp-blog.jpeg)" width="24" height="24"> C#
-- <img alt="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="24" height="24"> Python
+- <img alt="Gin" src="https://github.com/tandpfun/skill-icons/raw/main/svg/github.svg" width="24" height="24"> Gin
+- C#
+- <img alt="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="24" height="24"> Python3
+- <img alt="Django" src="https://github.com/tandpfun/skill-icons/raw/main/svg/django.svg" width="24" height="24"> Django
 - <img alt="Git" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="24" height="24"> Git
 
 <!---
