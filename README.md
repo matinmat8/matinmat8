@@ -7,11 +7,9 @@
 
 # Technologies
 - <img alt="Go" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="24" height="24"> Go
-- <img alt="C#" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c#.png" width="24" height="24"> C#
-- <img alt=".NET" src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fneosmart.net%2Fblog%2Fnew-dot-net-standard-framework-logo%2F&psig=AOvVaw39BlMnXbQNfaGwxiZejRnE&ust=1735886848188000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOis8Mm41ooDFQAAAAAdAAAAABAJ)" width="24" height="24"> .NET
+- <img alt="C#" src="[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c#.png](https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/images/optimized/rev-81f45bc/www.ciat.edu/wp-content/uploads/2022/12/c-sharp-blog.jpeg)" width="24" height="24"> C#
 - <img alt="Python" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="24" height="24"> Python
 - <img alt="Git" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="24" height="24"> Git
-- <img alt="HTML" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="24" height="24"> HTML
 
 <!---
 matinmat8/matinmat8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
