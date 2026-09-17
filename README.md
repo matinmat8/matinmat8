@@ -1,69 +1,184 @@
 👋 Hey, I'm Matin!
-🧑‍💻 Developer • Security Enthusiast • Linux Lover • Lifelong Learner
+🧑‍💻 Backend Developer • Security Enthusiast • Distributed Systems • Linux Lover
 
-I'm Matin, a developer who enjoys building things, breaking things, and understanding how things work under the hood.
+I'm Matin, a backend developer and lifelong learner who enjoys building systems, understanding how they work, and exploring how they can be made more secure and scalable.
 
-I'm particularly interested in Cybersecurity 🔐, Backend Development ⚙️, Linux 🐧, and Software Architecture. When I'm not coding or learning something new, you'll probably find me riding my bike 🚲 or exploring another rabbit hole on the internet.
+My main interests are Backend Development, Cybersecurity 🔐, Software Architecture, Distributed Systems, Microservices, Linux 🐧, and Databases.
 
-"STEP_BY_STEP 👣"
-Learning, building, breaking, fixing, and getting better every day.
+I enjoy working with both Python/Django and C#/.NET, and I'm especially interested in designing systems that can grow beyond a single application or server.
 
-🚀 What I'm Currently Learning
+When I'm not coding, I'm probably riding my bike 🚲, experimenting with something new, or going down another technical rabbit hole.
 
-I'm currently exploring a bunch of technologies and concepts:
+STEP_BY_STEP 👣
+Learn → Build → Break → Fix → Understand → Improve → Repeat
 
-🐍 Python 3 — writing clean and useful software
+🚀 What I'm Working On & Learning
 
-🌐 Django — backend development & REST APIs
+I'm constantly exploring different areas of software engineering:
 
-🔐 CEH / Cybersecurity — security fundamentals and ethical hacking
+🐍 Python 3 & Django — backend development and APIs
 
-🐧 Linux — systems, networking, and the command line
+💜 C# & .NET — backend applications and enterprise development
+
+🧩 Microservices — designing independent, maintainable services
+
+🌐 Distributed Development — communication between services and distributed architectures
+
+🏗️ Software Architecture & System Design — designing structures that are maintainable and scalable
+
+🔌 REST APIs — designing and consuming APIs
 
 🐳 Docker — containers and development environments
 
-🧩 Microservices — designing scalable backend systems
+🐧 Linux — systems, networking, automation, and the command line
 
-🔌 REST APIs — building and consuming APIs
+🔐 Cybersecurity & CEH — security concepts and ethical hacking
 
-I'm not trying to learn everything at once — just one step at a time.
+🗄️ Oracle Database — relational databases and enterprise data systems
+
+I'm especially interested in understanding why a system is designed a certain way, not just how to write the code.
 
 🛠️ Technologies & Tools
-Languages
-<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="55" height="55"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" width="55" height="55"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/csharp.png" alt="C#" width="55" height="55"/> </p>
-Backend & Frameworks
-<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" width="55" height="55"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gin.png" alt="Gin" width="55" height="55"/> </p>
-Tools & Infrastructure
-<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="55" height="55"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="55" height="55"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="55" height="55"/> </p>
+💻 Languages
+<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" width="60" height="60"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/csharp.png" alt="C#" width="60" height="60"/> </p>
+🌐 Backend & Frameworks
+<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" alt="Django" width="60" height="60"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dotnet.png" alt=".NET" width="60" height="60"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gin.png" alt="Gin" width="60" height="60"/> </p>
+🧩 Architecture & Development
+
+🏗️ Software Architecture
+
+📐 System Design
+
+🧩 Microservices Architecture
+
+🌐 Distributed Systems
+
+🔌 RESTful APIs
+
+🔄 Service-to-Service Communication
+
+📦 Scalable Backend Systems
+
+🧱 Modular & Maintainable Software Design
+
+🗄️ Databases
+<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" alt="Oracle" width="60" height="60"/> </p>
+
+Oracle Database
+
+Relational Database Design
+
+SQL
+
+Data Modeling
+
+🐳 Tools & Infrastructure
+<p> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="60" height="60"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="60" height="60"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="60" height="60"/> </p>
 🔐 A Little More About Me
 
-🕵️ Interested in Cybersecurity & Ethical Hacking
+🕵️ Cybersecurity & Ethical Hacking enthusiast
 
-💻 I enjoy backend development
+💻 Focused on Backend Development
 
-🐧 Comfortable exploring the Linux ecosystem
+🐍 Working with Python & Django
 
-🧠 Always learning something new
+💜 Working with C# & .NET
 
-🚲 I like riding my bike
+🧩 Interested in Microservices & Distributed Systems
 
-🛠️ I enjoy understanding how software works behind the scenes
+🏗️ Interested in Software Architecture & System Design
 
-🤝 Open to collaborating on Python & Django projects
+🗄️ Working with Oracle & relational databases
 
-🌱 Always looking for opportunities to learn from other developers
+🐧 Love the Linux ecosystem
+
+🐳 Interested in Docker & containerized applications
+
+🔌 Enjoy building REST APIs
+
+🧠 Curious about how systems work internally
+
+🚲 Enjoy riding my bike
+
+🤝 Open to collaborating on interesting projects
+
+🌱 Always learning, experimenting, and improving
+
+🧠 Things I Like Thinking About
+                 ┌─────────────────────┐
+                 │    System Design    │
+                 └──────────┬──────────┘
+                            │
+            ┌───────────────┼───────────────┐
+            ↓               ↓               ↓
+       Microservices    Distributed      Security
+                          Systems
+            │               │               │
+            └───────────────┼───────────────┘
+                            ↓
+                    Scalable Systems
+                            │
+                            ↓
+                       Good Software
+
+
+I like exploring questions such as:
+
+How should a large application be structured?
+
+When should a monolith become multiple services?
+
+How should services communicate?
+
+How do distributed systems handle failures?
+
+How can APIs remain maintainable as systems grow?
+
+How should data and responsibilities be divided between services?
+
+How can security be considered from the beginning rather than added later?
 
 🤝 Let's Build Something Together
 
-I'm interested in collaborating on Python, Django, backend, API, and open-source projects.
+I'm interested in collaborating on:
 
-If you're building something interesting, learning something cool, or just want to talk about code and security, feel free to reach out.
+🐍 Python / Django projects
+
+💜 C# / .NET projects
+
+🧩 Microservices
+
+🌐 Distributed systems
+
+🔌 REST APIs
+
+🔐 Security-related projects
+
+🏗️ Backend architecture & system design
+
+🌎 Open-source projects
+
+If you're building something interesting, learning something new, or just want to talk about code, architecture, Linux, or security, feel free to reach out.
 
 📫 Email: matinmat8.mat@gmail.com
 
-🌍 One Step at a Time
-Learn → Build → Break → Fix → Improve → Repeat
-                         👣
+🌍 STEP_BY_STEP 👣
+        Learn
+          ↓
+        Build
+          ↓
+        Break
+          ↓
+         Fix
+          ↓
+      Understand
+          ↓
+       Improve
+          ↓
+        Repeat
+          ↺
 
 
 Let's make the world a little better for each other — one step at a time. ❤️
+
+<p align="center"> <i>Thanks for stopping by! ⭐</i> </p>
